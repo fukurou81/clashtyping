@@ -1,0 +1,28 @@
+body{
+   padding:30px;
+   font-family: 'arial black', monospace;
+   text-align: center;
+   background-image: url("WVzURg.png");
+   
+   background-repeat: no-repeat;
+   background-position-x: center;
+   background-color:rgba(255,255,255,0.5) ;
+   background-blend-mode: lighten;
+}
+
+#target {
+   font-size: 46px;
+   letter-spacing: 3px;
+   text-shadow: 1px 2px 9px #808080;
+
+}  
+
+ 
+
+
+.info {
+
+color : rgb(220, 2, 220);
+
+text-shadow: 1px 1px 1px #808080;
+}
