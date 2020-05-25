@@ -2,7 +2,7 @@ body{
    padding:30px;
    font-family: 'arial black', monospace;
    text-align: center;
-   background-image: url("WVzURg.png");
+   background: url("WVzURg.png");
    
    background-repeat: no-repeat;
    background-position-x: center;
